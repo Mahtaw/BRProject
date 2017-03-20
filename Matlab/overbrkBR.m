@@ -1,7 +1,10 @@
 function  overbrkBR(isRandom,FlowRate, path)
 format long
 %UNTITLED7 Summary of this function goes here
-%   Detailed explanation goes here
+%   This function is used by overbrkBRrunner.py to create overall brk files
+%   for all the runs. flowrate and the path can be changed in the python
+%   script. isRandom thingy is for when you need to plot and need to reduce
+%   the size of your brk points.
    cd (path)
    path;
    P= 0.35;
