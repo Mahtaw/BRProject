@@ -1,2 +1,2 @@
 # BRProject
-Crunchflow bromine project
+Crunchflow bromide project
